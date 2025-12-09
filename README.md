@@ -26,7 +26,7 @@ I build AI powered systems, RAG systems, and intelligent automation systems.
 
 | Certificate | Link |
 |------------|------|
-| IBM Data Analyst Specialization | [![Certificate](https://img.shields.io/badge/View-2496ED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/IW4Q083WTIKI) |
+| IBM Data Analyst Specialization | [![Certificate](https://img.shields.io/badge/View-2496ED?style=for-the-badge&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/IW4Q083WTIKI) |
 | IBM AI Developer Specialization | [![Certificate](https://img.shields.io/badge/View-007BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/9GRV471G1E8V) |
 | AWS Fundamentals Specialization | [![Certificate](https://img.shields.io/badge/View-007BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/VX3TMCOMN0R0) |
 | Generative AI and LLMs: Architecture and Data Preparation | [![Certificate](https://img.shields.io/badge/View-007BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/R73FTC9NA35W) |
