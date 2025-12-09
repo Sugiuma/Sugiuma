@@ -48,9 +48,9 @@ Empower data-driven decision-making to identify key air pollution challenges and
 ---
 
 ## 📊 GitHub Stats
-![Suganya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugiuma&show_icons=true&theme=radical&cache_seconds=86400)
+![Suganya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugiuma&show_icons=true&theme=radical&v=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugiuma&layout=compact&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugiuma&layout=compact&theme=radical&v=1)
 
 
 ---
