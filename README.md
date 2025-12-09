@@ -4,6 +4,8 @@
 I build AI powered systems, RAG systems, and intelligent automation inspired by ASIC verification concepts.
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sugiuma&label=Profile%20views&color=0e75b6&style=flat" alt="Sugiuma" /> </p>
+---
 
 ## 👩‍💻 About Me
 - 🔭 Building: **AI Powered systems**, **ML + QA Analytics Pipeline**
@@ -13,7 +15,7 @@ I build AI powered systems, RAG systems, and intelligent automation inspired by 
 
 ---
 
-## **CODING STATS**
+## **Coding Stats**
 <p align = 'center'>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Sugiuma&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sugiuma&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
