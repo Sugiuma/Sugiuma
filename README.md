@@ -1,7 +1,10 @@
 <h2 align="center">👋 Hi, I'm Suganya!</h2>
+
 ### R&D Engineer → Data Science | ML & NLP Explorer | AI Enthusiast
 
-I build AI powered systems, RAG systems, and intelligent automation systems.
+Seasoned professional with a background in ASIC Design Verification, now focused on Data Science, Machine Learning, and AI-driven software solutions.
+
+➡️ Skilled in Python, FastAPI, LangChain, and LLM-based systems, I build intelligent automation frameworks and AI-powered web applications that combine data analytics, testing, and automation for scalable, reliable solutions.
 
 ---
 
