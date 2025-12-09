@@ -42,7 +42,7 @@ Empower data-driven decision-making to identify key air pollution challenges and
 
 ---
 
-### 📜 Certificates
+### 📜 Certifications
 
 | Certificate | Link |
 |------------|------|
@@ -67,6 +67,7 @@ Empower data-driven decision-making to identify key air pollution challenges and
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Sugiuma&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sugiuma&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 </p>
+
 ---
 
 ## 🛠 Tech Stack  
