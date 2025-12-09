@@ -15,29 +15,40 @@ I build AI powered systems, RAG systems, and intelligent automation inspired by 
 
 ## 🚀 Featured Projects
 
-### 🔹 ADEGuard - Winner of GenAI Challenge#2 [Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7396887503703744512/)  
+|                                       🧩 **Project**                                      | 📄 **Description**                                                                                                  |                                             🔗 **Links**                                            |
+| :---------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: |
+|               **ADEGuard**<br>🏆 *Winner – GenAI Challenge #2 [Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7396887503703744512/)*               | AI-powered NLP system for detecting **Adverse Drug Events (ADEs)** from VAERS COVID-19 data.                        |                [Repository](https://github.com/Sugiuma/ADEGuard) <br> [Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7382246089745342466)               |
+| **Role-Based Access Control RAG System**<br>🏆 *Winner – GenAI Challenge #1 (Codebasics)* | RAG-based role-controlled chatbot ensuring users receive **data based on their access role**.                       |                [Repository](https://github.com/Sugiuma/RBAC-Project) <br> [Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7344931692152832001/)               |
+|     **Air Purifier Market Fit Research**<br>🌟 *Featured – Codebasics Top Submissions*    | Data-driven insights to identify pollution patterns and guide **smart air purifier development** for Indian cities. | [Repository](https://github.com/Sugiuma/Air-Quality) <br> [Summary](https://www.linkedin.com/feed/update/urn:li:activity:7359829661356339201/) <br> [Video Walkthrough](https://www.youtube.com/watch?v=fart_dPZcOg) |
+
+---
+
+
+## 🚀 Featured Projects
+
+### 🔹 ADEGuard - Winner of GenAI Challenge#2  
 AI-powered NLP system for detecting Adverse Drug Events (ADEs) for VAERS data (COVID-19)
 
-[Repository](https://github.com/Sugiuma/ADEGuard)
+[Repository]
 
-[Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7382246089745342466)
+[Video Walkthrough](6)
 
 
 ### 🔹 Role-Based Access Control RAG System - Winner of GenAI Challenge#1 [Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7357007968539717634/) 
 RAG-based role-based access control system for the chatbot, ensuring each user receives the correct data based on their role.
 
-[Repository](https://github.com/Sugiuma/RBAC-Project)
+[Repository]
 
-[Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7344931692152832001/)
+[Video Walkthrough]()
 
 ### 🔹 Market Fit Research for Air Purifier Development - Featured in Top Submissions [Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7373777177429012480/)
 Empower data-driven decision-making to identify key air pollution challenges and prioritize smart air purifier development across Indian cities.
 
-[Repository](https://github.com/Sugiuma/Air-Quality)
+[Repository](
 
-[Summary](https://www.linkedin.com/feed/update/urn:li:activity:7359829661356339201/)
+[Summary]()
 
-[Video Walkthrough](https://www.youtube.com/watch?v=fart_dPZcOg)
+[Video Walkthrough]()
 
 
 ---
