@@ -14,7 +14,6 @@ I build AI powered systems, RAG systems, and intelligent automation systems.
 ---
 
 ## 🚀 Featured Projects
-
 |                                       🧩 **Project**                                      | 📄 **Description**                                                                                                  |                                             🔗 **Links**                                            |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------|
 |**ADEGuard** -🏆 *Winner – GenAI Challenge#2 [Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7396887503703744512/)*               | AI-powered NLP system for detecting **Adverse Drug Events (ADEs)** from VAERS COVID-19 data.                        |                [Repository](https://github.com/Sugiuma/ADEGuard) <br> [Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7382246089745342466)               |
@@ -74,8 +73,3 @@ I build AI powered systems, RAG systems, and intelligent automation systems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suganya-g/)
 
 
-| **Project**                                                                             | **Description**                                                                                               | **Links**                                                     |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **ADEGuard** — *🏆 Winner, GenAI Challenge #2 (Codebasics)*                             | AI-powered NLP system for detecting **Adverse Drug Events** (ADEs) from VAERS COVID-19 reports.               | [Repository](#) <br> [Video Walkthrough](#)                   |
-| **Role-Based Access Control RAG System** — *🏆 Winner, GenAI Challenge #1 (Codebasics)* | Role-based RAG architecture ensuring each user receives data according to their **access permissions**.       | [Repository](#) <br> [Video Walkthrough](#)                   |
-| **Air Purifier Market Fit Research** — *🌟 Featured: Top Submission*                    | Data-driven market analysis identifying pollution patterns & insights for **smart air purifier** development. | [Repository](#) <br> [Summary](#) <br> [Video Walkthrough](#) |
