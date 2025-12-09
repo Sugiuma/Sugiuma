@@ -13,6 +13,14 @@ I build AI powered systems, RAG systems, and intelligent automation inspired by 
 
 ---
 
+## **CODING STATS**
+<p align = 'center'>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Sugiuma&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sugiuma&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+</p>
+
+---
+
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
