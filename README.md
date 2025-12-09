@@ -47,13 +47,6 @@ Empower data-driven decision-making to identify key air pollution challenges and
 
 ---
 
-## 📊 GitHub Stats
-![Suganya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugiuma&show_icons=true&theme=radical&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugiuma&layout=compact&theme=radical&v=1)
-
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suganya-g/)
