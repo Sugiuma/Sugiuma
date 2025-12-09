@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suganya!
 ### R&D Engineer → Data Science | ML & NLP Explorer | AI Enthusiast
 
-I build AI powered systems, RAG systems, and intelligent automation inspired by ASIC verification concepts.
+I build AI powered systems, RAG systems, and intelligent automation systems.
 
 ---
 
