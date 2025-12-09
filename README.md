@@ -70,6 +70,10 @@ I build AI powered systems, RAG systems, and intelligent automation systems.
 
 
 ---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugiuma&theme=radical" alt="Profile Summary"/>
+
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suganya-g/)
 
