@@ -9,7 +9,7 @@ I build AI powered systems, RAG systems, and intelligent automation inspired by 
 - 🔭 Building: **AI Powered systems**, **ML + QA Analytics Pipeline**
 - 🌱 Learning: **ML, NLP, FastAPI, LangChain, Data Science**
 - 👯 Open to collaborate on: **AI + ML Projects**
-- 💬 Ask me about: **Selenium, FastAPI, ML, RAG, Data Science**
+- 💬 Ask me about: **ML, RAG, Data Science**
 
 ---
 
@@ -28,7 +28,7 @@ I build AI powered systems, RAG systems, and intelligent automation inspired by 
 ### 🔹 ADEGuard - Winner of GenAI Challenge#2 @![Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7396887503703744512/)  
 AI-powered NLP system for detecting Adverse Drug Events (ADEs) for VAERS data (COVID-19)
 
-![Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7382246089745342466/)
+![Video Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7382246089745342466)
 
 
 ### 🔹 Role-Based Access Control RAG System - Winner of GenAI Challenge#1 @![Codebasics](https://www.linkedin.com/feed/update/urn:li:activity:7357007968539717634/) 
