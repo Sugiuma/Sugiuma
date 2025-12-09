@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suganya!
+<h2 align="center">👋 Hi, I'm Suganya!</h2>
 ### R&D Engineer → Data Science | ML & NLP Explorer | AI Enthusiast
 
 I build AI powered systems, RAG systems, and intelligent automation systems.
@@ -75,3 +75,6 @@ I build AI powered systems, RAG systems, and intelligent automation systems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suganya-g/)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=43B02A&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+GitHub+profile!" alt="footer svg" />
+</p>
