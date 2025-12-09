@@ -20,7 +20,7 @@ Seasoned professional with a background in ASIC Design Verification, now focused
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 | Certificate | Link |
 |------------|------|
@@ -32,7 +32,7 @@ Seasoned professional with a background in ASIC Design Verification, now focused
 
 ---
 
-### 🏅 Achievements
+## 🏅 Achievements
 | Achievements | Link |
 |------------|------|
 | Winner of GenAI Challenge#1 - RBAC for FinSolve Technologies | [View](https://codebasics.io/certificate/CB-CH-2-19-574531-2446)|
@@ -40,7 +40,7 @@ Seasoned professional with a background in ASIC Design Verification, now focused
 
 ---
 
-## **Coding Stats**
+## 📊 Coding Stats
 <p align = 'center'>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Sugiuma&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sugiuma&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
