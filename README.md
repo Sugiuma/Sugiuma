@@ -1,18 +1,13 @@
-<h2 align="center">👋 Hi, I'm Suganya!</h2>
+<h2 align="center">👋 Hi, I'm Suganya </h2>
 
-### R&D Engineer → Data Science | ML & NLP Explorer | AI Enthusiast
+<h2 align="center"> R&D Engineer → Data Science | ML & NLP Explorer | AI Enthusiast </h2>
 
+## 👩‍💻 About Me
 Seasoned professional with a background in ASIC Design Verification, now focused on Data Science, Machine Learning, and AI-driven software solutions.
 
 ➡️ Skilled in Python, FastAPI, LangChain, and LLM-based systems, I build intelligent automation frameworks and AI-powered web applications that combine data analytics, testing, and automation for scalable, reliable solutions.
 
----
-
-## 👩‍💻 About Me
-- 🔭 Building: **AI Powered systems**, **ML + QA Analytics Pipeline**
-- 🌱 Learning: **ML, NLP, FastAPI, LangChain, Data Science**
-- 👯 Open to collaborate on: **AI + ML Projects**
-- 💬 Ask me about: **ML, RAG, Data Science**
+➡️ Open to collaborate on: **AI + ML Projects**
 
 ---
 
