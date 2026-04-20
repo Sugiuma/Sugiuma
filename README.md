@@ -1,19 +1,26 @@
 <h2 align="center">👋 Hi, I'm Suganya </h2>
-<h2 align="center"> Design Verification Engineer | AI-Driven Debug & Coverage Optimization | ML for Regression Efficiency </h2>
+<h2 align="center"> Design Verification Engineer | AI/ML Enthusiast </h2>
 
 ## 👩‍💻 About Me
 
 ➡️ Design Verification Engineer (ex-Synopsys, Renesas Mobile) with 2 years of applied AI/ML — now focused on bringing machine intelligence into UVM-based verification.
 
 ✔ Built and deployed 6 end-to-end AI/ML systems (MLOps → NLP → GenAI)
+
 ✔ Strong DV foundation: UVM, constrained random, SVA/PSL, CDC (Spyglass), UPF
+
 ✔ Bridging both worlds — not theory, but working systems
 
 ➡️ Current focus: AI-driven verification workflows
+
 • Predicting uncovered coverage bins using Decision Trees
+
 • Converting simulation logs into ML-ready data pipelines
+
 • Auto-generating SystemVerilog constraints for faster closure
+
 • Closed-loop regression optimization using open-source tools
+
 
 Verification is generating massive data. I don’t just verify designs — I build systems that learn from it & improve how verification works.
 
