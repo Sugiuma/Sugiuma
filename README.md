@@ -5,7 +5,7 @@
 
 ➡️ Design Verification Engineer (ex-Synopsys, Renesas Mobile) with 2 years of applied AI/ML — now focused on bringing machine intelligence into UVM-based verification.
 
-1. Built and deployed 6 end-to-end AI/ML systems (MLOps → NLP → GenAI)
+1. Built and deployed end-to-end AI/ML systems (Data Analytics → MLOps → DL → NLP → GenAI)
 2. Strong DV foundation: UVM, constrained random, SVA/PSL, CDC (Spyglass), UPF
 3. Bridging both worlds — not theory, but working systems
 
