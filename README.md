@@ -5,16 +5,16 @@
 
 ➡️ Design Verification Engineer (ex-Synopsys, Renesas Mobile) with 2 years of applied AI/ML — now focused on bringing machine intelligence into UVM-based verification.
 
-✔ Built and deployed 6 end-to-end AI/ML systems (MLOps → NLP → GenAI)
-✔ Strong DV foundation: UVM, constrained random, SVA/PSL, CDC (Spyglass), UPF
-✔ Bridging both worlds — not theory, but working systems
+1. Built and deployed 6 end-to-end AI/ML systems (MLOps → NLP → GenAI)
+2. Strong DV foundation: UVM, constrained random, SVA/PSL, CDC (Spyglass), UPF
+3. Bridging both worlds — not theory, but working systems
 
 ➡️ Current focus: AI-driven verification workflows
 
-• Predicting uncovered coverage bins using Decision Trees
-• Converting simulation logs into ML-ready data pipelines
-• Auto-generating SystemVerilog constraints for faster closure
-• Closed-loop regression optimization using open-source tools
+1. Predicting uncovered coverage bins using Decision Trees
+2. Converting simulation logs into ML-ready data pipelines
+3. Auto-generating SystemVerilog constraints for faster closure
+4. Closed-loop regression optimization using open-source tools
 
 
 Verification is generating massive data. I don’t just verify designs — I build systems that learn from it & improve how verification works.
