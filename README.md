@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Suganya </h2>
-<h2 align="center"> R&D Engineer → Data Science | ML & NLP Explorer | AI Enthusiast </h2>
+<h2 align="center"> Design Verification Engineer | AI-Driven Debug & Coverage Optimization | ML for Regression Efficiency </h2>
 
 ## 👩‍💻 About Me
 
