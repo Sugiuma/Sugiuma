@@ -22,9 +22,9 @@ Verification is generating massive data. I don’t just verify designs — I bui
 📌 Targeting 
 
 I'm actively exploring two tracks:
-→ **DV roles** at semiconductor companies where I can apply AI to verification workflows
 
-→ **AI/ML / Data roles** at SaaS and tech companies where I can build intelligent, production-grade systems
+1. **DV roles** at semiconductor companies where I can apply AI to verification workflows.
+2. **AI/ML / Data roles** at SaaS and tech companies where I can build intelligent, production-grade systems
 
 My engineering background shapes how I think about ML — I care deeply about edge cases, reliability, and making systems that actually work under pressure.
 
