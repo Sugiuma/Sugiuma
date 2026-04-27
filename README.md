@@ -19,7 +19,14 @@
 
 Verification is generating massive data. I don’t just verify designs — I build systems that learn from it & improve how verification works.
 
-📌 Targeting mid-level DV roles in semiconductor, EDA, and AI chip teams building the future of intelligent verification
+📌 Targeting 
+
+I'm actively exploring two tracks:
+→ DV roles at semiconductor companies where I can apply AI to verification workflows
+→ AI/ML / Data roles at SaaS and tech companies where I can build intelligent, production-grade systems
+
+My engineering background shapes how I think about ML — I care deeply about edge cases, reliability, and making systems that actually work under pressure.
+
 
 ---
 
